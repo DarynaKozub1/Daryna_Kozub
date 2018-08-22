@@ -3,10 +3,6 @@ class Greeter
     @who = who
   end
   def greet
-<<<<<<< HEAD
-    "Hello people, #{@who}"
-=======
     "Hi, #{@who}"
->>>>>>> greet_Kozub
   end
 end
