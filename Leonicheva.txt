@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 The first change
 The second change
+=======
+>>>>>>> parent of 1ca29c5... The first change
